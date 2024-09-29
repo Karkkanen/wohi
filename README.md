@@ -1,2 +1,2 @@
-# wohi
+# wohi Karkkanen
 Web Programming I course
